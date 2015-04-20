@@ -23,6 +23,7 @@ accounts = {
   "woloxiot" => 2892166253,
   "woloxeng" => 590254332,
   "syrmoskate" => 1265759042,
+  "john_snow_bot" => 3184142433
 }
 
 stream_client = TweetStream::Client.new
